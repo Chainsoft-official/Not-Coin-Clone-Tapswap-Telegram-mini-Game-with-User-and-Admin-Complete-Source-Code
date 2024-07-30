@@ -47,6 +47,11 @@ The user side of the Not-Coin-Clone tapswap game provides a seamless experience 
 ## Admin Side Details
 The admin side of the Not-Coin-Clone tapswap game is equipped with tools and features necessary for managing the game's infrastructure and user data. Here's a detailed look at the admin functionalities:
 
+## Bot Previews
+<p  align="center">
+  <img src="https://github.com/user-attachments/assets/12258725-8812-4790-8bfb-f5ee37d40cc8" width="500" height="500"/>
+</p>
+
 ### Accessing the Admin Panel
 1. **Entering Referral ID**: Admins must input a referral ID to access the admin controls. This step is crucial for ensuring that only authorized personnel can manage sensitive data.
 2. **Credential Verification**: After entering the referral ID, admins must verify their credentials, which might involve cross-referencing with a secure database.
@@ -72,10 +77,19 @@ The admin side of the Not-Coin-Clone tapswap game is equipped with tools and fea
 
 ## Contact Information
 For support, questions, or more information, please contact us at:
+- **Telegram** : [Telegram](https://web.telegram.org/a/)
+- **WhatsApp** : +923066303835
+- **Instagram** : [Instagram](https://www.instagram.com/chainsoft_officiall/)
 
-- **Email**: Chainsoft.pk@gmail.com 
-- **Telegram**: [Not-Coin-Clone Support](https://t.me/notcoinclonesupport)
-- **Website**: [www.notcoinclone.com](https://www.chainsoft.pk)
+## Buying
+Contact Me: [Chainsoft.pk](https://linktr.ee/Chainsoft.pk?utm_source=linktree_admin_share)
+
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/226a790b-9dc6-4425-a735-54f83cdac537" width="200" />
+</p>
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Conclusion
 The Not-Coin-Clone tapswap game is an innovative blend of gaming and cryptocurrency, offering a dynamic platform for earning rewards. The detailed user interface and robust admin controls ensure a seamless and engaging experience for all participants. Whether you're a player looking to explore new gaming avenues or an admin managing a game system, the insights provided in this guide will help you navigate and excel in this unique environment.

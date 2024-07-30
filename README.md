@@ -11,10 +11,11 @@ The user side of the Not-Coin-Clone tapswap game provides a seamless experience 
 3. **Open the App & Initial Display**: Upon joining, users see their starting level and a welcoming display, setting the stage for their gaming experience.
 
 ## Bot Previews
-<p>
+<p  align="center">
 
-  <img src="https://github.com/user-attachments/assets/211be48c-11ca-4098-89a3-3190a7b971ea" width="500" height="500" align="center" />
+  <img src="https://github.com/user-attachments/assets/211be48c-11ca-4098-89a3-3190a7b971ea" width="500" height="500"/>
 </p>
+
 ### Navigating the Menu Bar
 1. **Friend Tab**:
     - **Invite Friends**: Players can invite friends using a referral link, earning rewards for each successful referral.

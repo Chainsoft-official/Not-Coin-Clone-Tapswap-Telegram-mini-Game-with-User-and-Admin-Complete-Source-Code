@@ -1,6 +1,4 @@
-# Telegram-Not-Coin-Clone-Tapswap-Game-with-User-and-Admin-Complete-Source-Code
-# Not-Coin-Clone Tapswap Game
-
+# Telegram-Not-Coin-Clone-Tapswap-Game-with-User-and-Admin-Complete-Source-Code  
 ## Introduction
 The Not-Coin-Clone tapswap game offers a unique blend of gaming and cryptocurrency, creating an engaging platform for players to earn digital rewards. This comprehensive guide explores the game's features from both the user and admin perspectives, providing insights into its functionalities and mechanics.
 
@@ -15,7 +13,7 @@ The user side of the Not-Coin-Clone tapswap game provides a seamless experience 
 ## Bot Previews
 <p>
 
-  <img src="https://github.com/user-attachments/assets/211be48c-11ca-4098-89a3-3190a7b971ea"/>
+  <img src="https://github.com/user-attachments/assets/211be48c-11ca-4098-89a3-3190a7b971ea" width="500" height="500" align="center" />
 </p>
 ### Navigating the Menu Bar
 1. **Friend Tab**:
